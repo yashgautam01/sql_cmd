@@ -1,3 +1,4 @@
+
 SELECT
 CASE
     WHEN A + B <= C THEN "Not A Triangle"
