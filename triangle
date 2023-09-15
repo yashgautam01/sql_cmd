@@ -5,5 +5,6 @@ CASE
     WHEN A = B OR B = C OR C = A THEN "Isosceles"
     WHEN A != B AND B != C THEN "Scalene"
 END
+
 FROM TRIANGLES
 
