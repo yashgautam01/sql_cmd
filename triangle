@@ -6,3 +6,4 @@ CASE
     WHEN A != B AND B != C THEN "Scalene"
 END
 FROM TRIANGLES
+
